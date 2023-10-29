@@ -17,6 +17,7 @@ public class CharacterPatternEx2 {
 
 /*
 Expected Output::
+
 A
 B B
 C C C
