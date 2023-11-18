@@ -46,7 +46,7 @@ public class ButterflyPatternExample1 {
 }
 
 /*
-Expected OutPut::
+Expected OutPut:
 
 Enter your Rows number
 5
